@@ -1,0 +1,8 @@
+# Ignore model weights
+*.h5
+*.pt
+*.bin
+
+# Ignore system files
+.DS_Store
+__pycache__/
